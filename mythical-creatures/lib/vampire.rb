@@ -10,6 +10,6 @@ class Vampire
   end
 
   def drink
-    @thirsty = false
+    thirsty = false
   end
 end
