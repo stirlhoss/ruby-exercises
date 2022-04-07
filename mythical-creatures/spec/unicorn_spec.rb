@@ -1,4 +1,5 @@
 require 'rspec'
+require 'pry'
 require './lib/unicorn'
 
 RSpec.describe Unicorn do
